@@ -4,5 +4,5 @@
 // ou 2ème solution :
 $(function(){
     //$('elementCiblé').css('propriétéCSS','valeur'); 
-    $('#text').css('visibility','visible');       
+    $('#text').css('visibility','show');       
 });
